@@ -1,4 +1,4 @@
-# MiTDT
+# HomeFeature
 
 Se trata de hacer un clone de la app AppleTV mostrando los diferentes canales de televisión y radio.
 
