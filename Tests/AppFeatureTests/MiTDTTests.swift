@@ -1,5 +1,5 @@
 import XCTest
-@testable import MiTDT
+@testable import AppFeature
 
 final class MiTDTTests: XCTestCase {
     func testExample() throws {
